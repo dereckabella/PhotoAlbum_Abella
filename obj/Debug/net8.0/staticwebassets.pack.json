@@ -1,0 +1,677 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PhotoAlbum_Abella(Test).bundle.scp.css",
+      "PackagePath": "staticwebassets\\PhotoAlbum_Abella(Test).bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\AI.png",
+      "PackagePath": "staticwebassets\\images\\AI.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\animal.jpg",
+      "PackagePath": "staticwebassets\\images\\animal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\apex.jpg",
+      "PackagePath": "staticwebassets\\images\\apex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\assasinscreed.png",
+      "PackagePath": "staticwebassets\\images\\assasinscreed.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\astralchain.jpg",
+      "PackagePath": "staticwebassets\\images\\astralchain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\atomic.jpg",
+      "PackagePath": "staticwebassets\\images\\atomic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\baldursGate.jpg",
+      "PackagePath": "staticwebassets\\images\\baldursGate.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\bayoneta.png",
+      "PackagePath": "staticwebassets\\images\\bayoneta.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\blasphemous.png",
+      "PackagePath": "staticwebassets\\images\\blasphemous.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\bloodborne.jpg",
+      "PackagePath": "staticwebassets\\images\\bloodborne.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\celeste.png",
+      "PackagePath": "staticwebassets\\images\\celeste.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\cod3.png",
+      "PackagePath": "staticwebassets\\images\\cod3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\crashbandicoot.png",
+      "PackagePath": "staticwebassets\\images\\crashbandicoot.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\csgo.jpg",
+      "PackagePath": "staticwebassets\\images\\csgo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\cuphead.png",
+      "PackagePath": "staticwebassets\\images\\cuphead.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\deathstranding.jpg",
+      "PackagePath": "staticwebassets\\images\\deathstranding.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\deeprock.jpg",
+      "PackagePath": "staticwebassets\\images\\deeprock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\demonsouls.jpg",
+      "PackagePath": "staticwebassets\\images\\demonsouls.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\dota.jpg",
+      "PackagePath": "staticwebassets\\images\\dota.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\dragon.jpg",
+      "PackagePath": "staticwebassets\\images\\dragon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\dusk.jpg",
+      "PackagePath": "staticwebassets\\images\\dusk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\eldenRing.jpg",
+      "PackagePath": "staticwebassets\\images\\eldenRing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\enslaved.jpg",
+      "PackagePath": "staticwebassets\\images\\enslaved.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\ffr.png",
+      "PackagePath": "staticwebassets\\images\\ffr.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\fire.jpg",
+      "PackagePath": "staticwebassets\\images\\fire.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\firewatch.jpg",
+      "PackagePath": "staticwebassets\\images\\firewatch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\flight.jpg",
+      "PackagePath": "staticwebassets\\images\\flight.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\forza.jpg",
+      "PackagePath": "staticwebassets\\images\\forza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\gears.png",
+      "PackagePath": "staticwebassets\\images\\gears.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\ghost.jpg",
+      "PackagePath": "staticwebassets\\images\\ghost.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\gow.jpg",
+      "PackagePath": "staticwebassets\\images\\gow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\grandturismo.jpg",
+      "PackagePath": "staticwebassets\\images\\grandturismo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\gravity.jpg",
+      "PackagePath": "staticwebassets\\images\\gravity.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\grounded.jpg",
+      "PackagePath": "staticwebassets\\images\\grounded.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\gta5.png",
+      "PackagePath": "staticwebassets\\images\\gta5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\hades.jpg",
+      "PackagePath": "staticwebassets\\images\\hades.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\halo.png",
+      "PackagePath": "staticwebassets\\images\\halo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\heave.jpg",
+      "PackagePath": "staticwebassets\\images\\heave.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\hellblade.jpg",
+      "PackagePath": "staticwebassets\\images\\hellblade.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\hifi.jpg",
+      "PackagePath": "staticwebassets\\images\\hifi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\hollow.png",
+      "PackagePath": "staticwebassets\\images\\hollow.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\horizon.jpg",
+      "PackagePath": "staticwebassets\\images\\horizon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\horizon2.jpg",
+      "PackagePath": "staticwebassets\\images\\horizon2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\kirby.jpg",
+      "PackagePath": "staticwebassets\\images\\kirby.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\l4d.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\lethalcompany.jpg",
+      "PackagePath": "staticwebassets\\images\\lethalcompany.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\littlenightmares.png",
+      "PackagePath": "staticwebassets\\images\\littlenightmares.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\luigi.jpg",
+      "PackagePath": "staticwebassets\\images\\luigi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\mario.jpg",
+      "PackagePath": "staticwebassets\\images\\mario.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\mariohope.jpg",
+      "PackagePath": "staticwebassets\\images\\mariohope.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\mariokart.jpg",
+      "PackagePath": "staticwebassets\\images\\mariokart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\marvel.jpg",
+      "PackagePath": "staticwebassets\\images\\marvel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\metro.jpg",
+      "PackagePath": "staticwebassets\\images\\metro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\metroid.png",
+      "PackagePath": "staticwebassets\\images\\metroid.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\minecraft.png",
+      "PackagePath": "staticwebassets\\images\\minecraft.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\monsterhunter.jpg",
+      "PackagePath": "staticwebassets\\images\\monsterhunter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\monsterrise.jpg",
+      "PackagePath": "staticwebassets\\images\\monsterrise.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\neon.jpg",
+      "PackagePath": "staticwebassets\\images\\neon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\nioh.jpg",
+      "PackagePath": "staticwebassets\\images\\nioh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\nioh2.jpg",
+      "PackagePath": "staticwebassets\\images\\nioh2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\octopath.jpg",
+      "PackagePath": "staticwebassets\\images\\octopath.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\ori.jpg",
+      "PackagePath": "staticwebassets\\images\\ori.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\outerworld.png",
+      "PackagePath": "staticwebassets\\images\\outerworld.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\outlast.jpg",
+      "PackagePath": "staticwebassets\\images\\outlast.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\overcooked.png",
+      "PackagePath": "staticwebassets\\images\\overcooked.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\pentiment.jpg",
+      "PackagePath": "staticwebassets\\images\\pentiment.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\persona.jpg",
+      "PackagePath": "staticwebassets\\images\\persona.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\pokemon.jpg",
+      "PackagePath": "staticwebassets\\images\\pokemon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\powerwash.jpg",
+      "PackagePath": "staticwebassets\\images\\powerwash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\prey.jpg",
+      "PackagePath": "staticwebassets\\images\\prey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\psych.png",
+      "PackagePath": "staticwebassets\\images\\psych.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\quantum.jpg",
+      "PackagePath": "staticwebassets\\images\\quantum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\ragnarok.jpg",
+      "PackagePath": "staticwebassets\\images\\ragnarok.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\re2.jpg",
+      "PackagePath": "staticwebassets\\images\\re2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\redDead2.jpg",
+      "PackagePath": "staticwebassets\\images\\redDead2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\residentevil.png",
+      "PackagePath": "staticwebassets\\images\\residentevil.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\returnal.jpg",
+      "PackagePath": "staticwebassets\\images\\returnal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\ring.jpg",
+      "PackagePath": "staticwebassets\\images\\ring.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\sea.jpg",
+      "PackagePath": "staticwebassets\\images\\sea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\sekiro.jpg",
+      "PackagePath": "staticwebassets\\images\\sekiro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\shadow.jpg",
+      "PackagePath": "staticwebassets\\images\\shadow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\shin.png",
+      "PackagePath": "staticwebassets\\images\\shin.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\silenthill.png",
+      "PackagePath": "staticwebassets\\images\\silenthill.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\sleepingdogs.jpg",
+      "PackagePath": "staticwebassets\\images\\sleepingdogs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\specops.png",
+      "PackagePath": "staticwebassets\\images\\specops.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\spiderman.jpeg",
+      "PackagePath": "staticwebassets\\images\\spiderman.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\splatoon.jpg",
+      "PackagePath": "staticwebassets\\images\\splatoon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\state.jpg",
+      "PackagePath": "staticwebassets\\images\\state.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\subnautica.png",
+      "PackagePath": "staticwebassets\\images\\subnautica.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\sunset.jpg",
+      "PackagePath": "staticwebassets\\images\\sunset.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\supersmash.jpg",
+      "PackagePath": "staticwebassets\\images\\supersmash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\tactics.jpg",
+      "PackagePath": "staticwebassets\\images\\tactics.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\theWitcher3.jpg",
+      "PackagePath": "staticwebassets\\images\\theWitcher3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\titanfall2.jpg",
+      "PackagePath": "staticwebassets\\images\\titanfall2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\tlou.jpg",
+      "PackagePath": "staticwebassets\\images\\tlou.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\tombraider.jpg",
+      "PackagePath": "staticwebassets\\images\\tombraider.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\triangle.jpg",
+      "PackagePath": "staticwebassets\\images\\triangle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\uncharted.jpg",
+      "PackagePath": "staticwebassets\\images\\uncharted.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\untildawn.jpg",
+      "PackagePath": "staticwebassets\\images\\untildawn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\wayout.jpg",
+      "PackagePath": "staticwebassets\\images\\wayout.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\xenoblade.png",
+      "PackagePath": "staticwebassets\\images\\xenoblade.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\yakuza.jpg",
+      "PackagePath": "staticwebassets\\images\\yakuza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\images\\zelda.jpg",
+      "PackagePath": "staticwebassets\\images\\zelda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Desktop\\Test\\PhotoAlbum_Abella(Test)\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PhotoAlbum_Abella(Test).Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PhotoAlbum_Abella(Test).props",
+      "PackagePath": "build\\PhotoAlbum_Abella(Test).props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PhotoAlbum_Abella(Test).props",
+      "PackagePath": "buildMultiTargeting\\PhotoAlbum_Abella(Test).props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PhotoAlbum_Abella(Test).props",
+      "PackagePath": "buildTransitive\\PhotoAlbum_Abella(Test).props"
+    }
+  ],
+  "ElementsToRemove": []
+}
